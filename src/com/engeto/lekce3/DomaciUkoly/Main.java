@@ -10,6 +10,10 @@ public class Main {
             else if ((i%5 == 0 && (i%3) != 0)) {     s = "Buzz";     }
             else if ((i%3) == 0 && (i%5 == 0)) {    s = "FizzBuzz";    }
             System.out.println(s);
+
+
+            System.out.println(s);
+            System.out.println(s);
         }
 
     }
